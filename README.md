@@ -2,6 +2,7 @@
 Universidad de Palermo
 
 Materia: Computación Aplicada
+
 Profesores:
 - Lic. Alberto Deluca
 - Lic. Cristian Damiano
